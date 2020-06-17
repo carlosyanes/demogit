@@ -1,5 +1,6 @@
 git nueva linea para hacer branch
 nit
-ls -r
+ls agregamos mas lineas:wq
+aqq q-r
 git status
 git config
