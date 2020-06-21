@@ -1,4 +1,0 @@
-hay que realizar nuevos ingresos en esta branch
-genera un cambio con conflicto en B git init
-este es la linea de conflicto  A git init
-ls -r
